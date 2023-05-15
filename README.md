@@ -1,6 +1,8 @@
 # Guess Number
 Simple React Native Game App that allows the computer to guess the user's number.
 
+https://github.com/daria-dudka/GuessNumber/assets/66278954/43f8e760-f9e3-4ca8-ae36-460bf2675654
+
 ## Install & Execute
 
 1. Clone the repo;
