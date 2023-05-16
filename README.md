@@ -12,4 +12,4 @@ https://github.com/daria-dudka/GuessNumber/assets/66278954/43f8e760-f9e3-4ca8-ae
 
 ## Open the App on your phone
 
-Download Expo Go from the Google Play Store or the Apple App Store. Open the [Guess Number App Link](expo.dev/@daria.dudka/GuessNumber) on your comuter. Open the default "Camera" app on your phone and scan the QR code you see
+Download Expo Go from the Google Play Store or the Apple App Store. Open the Guess Number App Link (expo.dev/@daria.dudka/GuessNumber) on your computer. Open the default "Camera" app on your phone and scan the QR code you see
